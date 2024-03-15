@@ -1,1 +1,2 @@
-This will be my first HTML project, after completing this project I will have demonstrated the skills of making a basic accesability friendly website
+This will be my first HTML project. 
+After completing this project I will have demonstrated of making a basic accessible website.
